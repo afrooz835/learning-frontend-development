@@ -1,0 +1,26 @@
+﻿
+1.Can you explain what git is and its purpose?
+
+GIT is a devops tool used for source code management. It is a version control system. It allows the users to keep track of the code history by using commands. It allows multiple users to work together.
+
+Every developer has a entire copy of the code on their local systems and any changes made to the source code can be tracked by others. There is regular communication between the developers.
+
+2. How do you create a new repository in Git?
+
+To create a new repository in Git,
+    • Go to the Git website
+    • Login to your account
+    • click on new repository, enter the name and brief description if needed.
+    • choose the repository to be public or private and click on create repository button.
+
+3.Can you explain the difference between Git pull and Got fetch?
+
+Git Fetch is the command that tells the local repository that there are changes available in the remote repository without bringing the changes into the local repository.
+Git Pull brings the copy of the remote directory changes into the local repository.
+
+4.Can you explain the difference between Git clone and Git fork?
+
+Git clone is a command used to create a local copy of the repo that is an exact copy of the remote repo. It is used when you want to work on a project collaboratively with others or simply to make a backup of the remote repo.
+
+Git fork allows you to create a personal copy of a remote repo on your own account. The personal copy is known as fork and used to contribute to the original repo.
+
